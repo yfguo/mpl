@@ -1,0 +1,3 @@
+[submodule "confdb"]
+	path = confdb
+	url = git@github.com:pmodels/confdb
