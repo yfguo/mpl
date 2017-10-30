@@ -1,0 +1,24 @@
+# generic ignores
+*.o
+*.lo
+*.la
+*.deps
+*.dirstamp
+
+# ignores for the top-level directory
+/.libs/
+/autom4te.cache/
+/Makefile
+/Makefile.in
+/_configs.sed
+/aclocal.m4
+/config.log
+/config.status
+/configure
+/include/config.h
+/include/config.h.in
+/include/mpl_timer.h
+/include/mplconfig.h
+/include/stamp-h1
+/libtool
+/localdefs
