@@ -4,6 +4,7 @@
 *.la
 *.deps
 *.dirstamp
+*~
 
 # ignores for the top-level directory
 /.libs/
